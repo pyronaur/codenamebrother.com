@@ -12,3 +12,11 @@
 </script>
 
 <time datetime={date}>{formattedDate}</time>
+
+
+<style>
+	time {
+		font-size: .85rem;
+		color: var( --text-color-alt );
+	}
+</style>
