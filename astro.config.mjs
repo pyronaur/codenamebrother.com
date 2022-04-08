@@ -22,5 +22,5 @@ export default defineConfig(
     }]
   },
   site: 'http://localhost:3000/',
-  integrations: [sitemap(), svelte()]
+  integrations: [svelte(), sitemap()]
 });
