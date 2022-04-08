@@ -15,4 +15,7 @@
 		margin-bottom: .25rem;
 		margin-top: -0.25rem;
 	}
+	div {
+		margin-bottom: 3rem;
+	}
 </style>

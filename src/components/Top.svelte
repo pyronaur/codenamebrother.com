@@ -8,10 +8,9 @@
 </div>
 
 <style>
-
 	header {
 		font-family: monospace;
-		padding: 40px 0;
+		padding: 6vh 0;
 	}
 	.codename {
 		color: hsl(63deg, 70%, 50%);
