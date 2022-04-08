@@ -7,10 +7,10 @@
 		"baseUrl": ".",
 		"paths": {
 			"@components/*": [
-				"src/components/*.astro"
+				"src/components/*.svelte"
 			],
 			"@layouts/*": [
-				"src/components/layouts/*.astro"
+				"src/layouts/*.astro"
 			],
 			"@data/*": [
 				"src/data/*.ts"
