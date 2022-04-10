@@ -9,7 +9,7 @@ To start off, what helped me have some feeling like what I know what I'm doing i
 
 
 
-```<html>
+``` <html>
 
  <head>
   <title> We're no </title>     
@@ -37,7 +37,8 @@ To start off, what helped me have some feeling like what I know what I'm doing i
 </ul>
 </body>
 
-</html>```
+</html>
+ ```
 
 
 In the code blocks head it sets the website's tab name, and link rel with href says "link relationship (link rel) is a stylesheet, the location (href) is style.css" basically importing a file that changes the websites colors, shapes, etc.
