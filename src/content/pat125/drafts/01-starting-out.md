@@ -3,13 +3,14 @@
 ### 2022-04-07
 
 
-To start off, what helped me have some feeling like what I know what I'm doing is to know what a HTML is. As an ~~expert~~ such as myself I can fully certaintly say that; everything you put between the code blocks of ```<HTML> </HTML>``` is what is represented in the/your website. _PS I like to think of these ``` <> </>``` things as code blocks or maybe everybody already does, not sure_. It's the machine where you put all the cogs in. Betwween HTML comes ``` <head> </head>``` in between where you put the name of your website and put weird css stuff in (css is something that changes/stylizes your website). Next to ``` </head> ``` and between HTML comes ``` <body> </body> ``` where all the ```<h1>```headers, ```<li>``` lists, text, ```<img src ="">```images, etc come in. Also, remember or notice how each code block ends with a "/". 
+To start off, what helped me have some feeling like what I know what I'm doing is to know what a HTML is. As an ~~expert~~ such as myself I can fully certaintly say that; everything you put between the code blocks of `<HTML> </HTML>` is what is represented in the/your website. _PS I like to think of these ` <> </>` things as code blocks or maybe everybody already does, not sure_. It's the machine where you put all the cogs in. Betwween HTML comes ` <head> </head>` in between where you put the name of your website and put weird css stuff in (css is something that changes/stylizes your website). Next to ` </head> ` and between HTML comes ` <body> </body> ` where all the `<h1>`headers, `<li>` lists, text, `<img src ="">`images, etc come in. Also, remember or notice how each code block ends with a `"/"`. 
 
 ### So here's some cheap website design that I has created (it is a rick roll website); 
 
 
 
-``` <html>
+```html
+<html>
 
  <head>
   <title> We're no </title>     
