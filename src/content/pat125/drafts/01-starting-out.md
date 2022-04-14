@@ -3,7 +3,7 @@
 ### 2022-04-07
 
 
-To start off, what helped me have some feeling like what I know what I'm doing is to know what a HTML is. As an ~~expert~~ such as myself I can fully certaintly say that; everything you put between the code blocks of `<HTML> </HTML>` is what is represented in the/your website. _PS I like to think of these ` <> </>` things as code blocks or maybe everybody already does, not sure_. It's the machine where you put all the cogs in. Betwween HTML comes ` <head> </head>` in between where you put the name of your website and put weird css stuff in (css is something that changes/stylizes your website). Next to ` </head> ` and between HTML comes ` <body> </body> ` where all the `<h1>`headers, `<li>` lists, text, `<img src ="">`images, etc come in. Also, remember or notice how each code block ends with a `"/"`. 
+Starting, what helped me have some feeling like what I know what I'm doing is to know what HTML is. As an ~~expert~~ such as myself I can fully certainly say that; everything you put between the code blocks of `<HTML> </HTML>` is what is represented in the/your website. _PS I like to think of these ` <> </>` things as code blocks or maybe everybody already does, not sure_. It's the machine where you put all the cogs in. Between HTML comes ` <head> </head>` in between where you put the name of your website and put weird CSS stuff in (CSS is something that changes/stylizes your website). Next to ` </head> ` and between HTML comes ` <body> </body> ` where all the `<h1>`headers, `<li>` lists, text, `<img src ="">`images, etc come in. Also, remember or notice how each code block ends with a `"/"`.
 
 ### So here's some cheap website design that I has created (it is a rick roll website); 
 
@@ -42,6 +42,6 @@ To start off, what helped me have some feeling like what I know what I'm doing i
  ```
 
 
-In the code blocks head it sets the website's tab name, and link rel with href says "link relationship (link rel) is a stylesheet, the location (href) is style.css" basically importing a file that changes the websites colors, shapes, etc.
+In `head`, it sets the website's tab name, and `link rel="stylesheet"`  says "link relationship (link rel) is a stylesheet, the location (href) to this stylesheet is style.css" basically importing a file that changes the websites colors, shapes, etc.
 
-Body is where the text, images, etc are I believe (remember, I'm definitely an ~~~expert~~~ at this). H1 is the header with "1" being the biggest size. IMG src says "Hey, import this link". UL is an "unordered list" (google it), and then comes the li which is the list. And with the last line/li, it's telling to attach an image (rick roll) to that last line, and then it finally ended with UL. 
+Body is where the text, images, etc are I believe (remember, I'm definitely an ~~~expert~~~ at this). H1 is the header with "1" being the biggest size. IMG src says "Hey, import this link". UL is an "unordered list" (An unordered list typically is a bulleted list of items), and then comes the li which is the list. And with the last line/li, it's telling to attach an image (rickroll) to that last line, and then it finally ends with UL. 
